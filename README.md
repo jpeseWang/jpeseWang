@@ -7,6 +7,12 @@ solving front-end problems and creating the best user experience for users.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpeseWang&show_icons=true&theme=radical)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ##Skills and Experience
 
 
