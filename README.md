@@ -9,7 +9,7 @@ solving front-end problems and creating the best user experience for users.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,angular,bootstrap,electron,firebase,mongodb,nestjs,nodejs,postgres,react,ts " />
+    <img src="https://skillicons.dev/icons?i=git,angular,bootstrap,electron,firebase,mongodb,nestjs,nodejs,react " />
   </a>
 </p>
 
