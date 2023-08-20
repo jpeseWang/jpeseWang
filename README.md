@@ -10,7 +10,7 @@ solving front-end problems and creating the best user experience for users.
 ##Skills and Experience
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,electron,firebase,mongodb,nextjs,threejs,nestjs,nodejs,redux,bootstrap,tailwind " />
+    <img src="https://skillicons.dev/icons?i=angular,react,electron,firebase,SQL,mongodb,nextjs,threejs,nestjs,nodejs,redux,bootstrap,tailwind " />
   </a>
 </p>
 
