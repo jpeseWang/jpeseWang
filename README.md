@@ -1,5 +1,5 @@
-### Hi there! 👋 I'm Leif
-# [Leif's Porfolio](https://jpesewang.com)
+# Hi there! 👋 I'm Leif
+## [Leif's Porfolio](https://jpesewang.com)
 
 I’m a Front-end Software Engineer with experience in Website Development. With my knowledge of UI/ UX design, I enjoy
 solving front-end problems and creating the best user experience for users.
