@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Leif
 ## [Leif's Porfolio](https://jpesewang.com)
 
-I’m a Software Developer with over one year of hands-on experience in Website Development. With my knowledge of the ever-evolving tech landscape, I enjoy a diverse range of programming languages and frameworks, I excel in delivering cutting-edge solutions that seamlessly blend form and function. In this capacity, I've successfully orchestrated teams towards project goals, fostering collaboration and driving excellence. Let's embark on this coding journey together, shaping the future one line of code at a time!
+I’m a Software Developer with over two year of hands-on experience in Website Development. With my knowledge of the ever-evolving tech landscape, I enjoy a diverse range of programming languages and frameworks, I excel in delivering cutting-edge solutions that seamlessly blend form and function. In this capacity, I've successfully orchestrated teams towards project goals, fostering collaboration and driving excellence. Let's embark on this coding journey together, shaping the future one line of code at a time!
 
 <img src="https://komarev.com/ghpvc/?username=jpeseWang" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/jpeseWang" alt="tiennhm" />
 
