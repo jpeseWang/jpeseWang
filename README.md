@@ -55,7 +55,7 @@
 ## 🛠️ Skills Snapshot
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,dotnet,java,mongodb,mysql,postgres,tails,bootstrap,redux,ts,azure,aws,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,java,mongodb,mysql,postgres,bootstrap,redux,ts,azure,aws,git" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ Let’s build something awesome together. 🚀
 📫 Reach me via:  
 - 📎 [LinkedIn](https://www.linkedin.com/in/jpesewangwork/)  
 - 🌐 [Portfolio](https://leifle-portfolio.vercel.app/)  
-- ✉️ leif.le.dev@gmail.com
+- ✉️ jpesewangwork@gmail.com
 
 ---
 
