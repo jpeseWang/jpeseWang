@@ -1,51 +1,74 @@
-# Hi there! 👋 I'm Leif
+<h1 align="center">こんにちは~ 👋 I'm Leif</h1>
 
-Welcome to my GitHub! I'm a passionate **Software Developer** with experience in **software development**, working on **enterprise solutions, AI-driven applications, and scalable web systems**.  
-I’m a Software Developer with over two year of hands-on experience in Website Development. With my knowledge of the ever-evolving tech landscape, I enjoy a diverse range of programming languages and frameworks, I excel in delivering cutting-edge solutions that seamlessly blend form and function. 
-
-## 👨‍💻 About Me  
-- 🔹 Experienced in **building high-performance and scalable applications**.  
-- 🔹 Skilled in **full-stack development** with expertise in both frontend and backend technologies.  
-- 🔹 Strong foundation in **software architecture, API development, and system optimization**.   
-
-## 🚀 Technical Skills  
-### Backend:  
-- **.NET Core** | C# | Java | Spring Boot | Node.js  
-- **Database Management:** Microsoft SQL Server | MongoDB | PostgreSQL  
-
-### Frontend:  
-- **React.js** | Next.js | TypeScript   
-- HTML5 | CSS3 | Tailwind CSS | Fluent UI  
-
-### Tools & Platforms:  
-- **Microsoft Power Platform** | SharePoint Framework | Power Automate  
-- **Cloud & DevOps:** Azure | Git | CI/CD | AWS | M365
-
-
-## 📫 Let's Connect!  
-I'm always open to new opportunities, collaborations, and discussions about **technology and innovation**.  
-
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jpesewangwork/)  
-- 🌎 Portfolio: [My Portfolio](https://leifle-portfolio.vercel.app/)  
-- 🔥 GitHub: [GitHub Profile](https://github.com/jpeseWang)  
-
-Thanks for stopping by! 🚀 Happy coding! 😊  
-
-<img src="https://komarev.com/ghpvc/?username=jpeseWang" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/jpeseWang" alt="tiennhm" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpeseWang&show_icons=true&theme=radical)
-
-## Skills and Experience
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,mongodb,mysql,nextjs,nodejs,dotnet,redux,bootstrap,tailwind " />
-  </a>
+  A passionate <strong>Software Developer</strong> crafting enterprise solutions, AI-powered apps, and modern full-stack systems.  
 </p>
 
+<p align="center">
+  <a href="https://leifle-portfolio.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/jpesewangwork/" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/jpeseWang" target="_blank">🔥 GitHub</a>
+</p>
 
+---
 
+## 🧠 About Me
 
+- 🚀 2+ years of hands-on experience in **Full-Stack Web Development**
+- 🛠️ Skilled in creating **high-performance** and **scalable** systems
+- 🔁 Proficient in both **frontend** & **backend**, including API & architecture design
+- 💬 Loves building impactful tools and solving real-world problems
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpeseWang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 🧰 Tech Stack
+
+### ⚙️ Backend  
+`C#` | `.NET Core` | `Java` | `Spring Boot` | `Node.js`  
+
+### 🖼️ Frontend  
+`React.js` | `Next.js` | `TypeScript` | `Tailwind CSS` | `Fluent UI`  
+
+### 🗄️ Databases  
+`SQL Server` | `MongoDB` | `PostgreSQL`  
+
+### 🧩 Tools & Platforms  
+`Azure` | `AWS` | `Microsoft Power Platform` | `SharePoint Framework` | `Power Automate`  
+`CI/CD` | `Git` | `M365`
+
+---
+
+## ✨ Featured Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jpeseWang&label=Profile%20Views" alt="profile views" />
+  <img src="https://badges.pufler.dev/repos/jpeseWang" alt="repos badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpeseWang&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpeseWang&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🛠️ Skills Snapshot
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,dotnet,java,mongodb,mysql,postgres,tails,bootstrap,redux,ts,azure,aws,git" />
+</p>
+
+---
+
+## 🤝 Let’s Connect!
+
+Open to collaboration, freelance gigs, and software dev chats!  
+Let’s build something awesome together. 🚀
+
+📫 Reach me via:  
+- 📎 [LinkedIn](https://www.linkedin.com/in/jpesewangwork/)  
+- 🌐 [Portfolio](https://leifle-portfolio.vercel.app/)  
+- ✉️ leif.le.dev@gmail.com
+
+---
 
