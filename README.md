@@ -60,7 +60,7 @@
 ## 🛠️ Skills Snapshot
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,java,mongodb,mysql,postgres,bootstrap,redux,ts,azure,aws,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,dotnet,java,mongodb,mysql,postgres,redux,ts,azure,aws,gcp,redis" />
 </p>
 
 ---
