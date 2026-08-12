@@ -4,11 +4,6 @@
   A passionate <strong>Full-stack Developer & SDET</strong> crafting scalable systems and building robust automation frameworks for quality-driven products.
 </p>
 
-<p align="center">
-  <a href="https://jpesewang-dev-sigma.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/jpesewangwork/" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/jpeseWang" target="_blank">🔥 GitHub</a>
-</p>
 
 ---
 
