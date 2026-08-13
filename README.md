@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🚀 3+ years of hands-on experience in **Full-Stack Development**, transitioning into **Full-stack Test Engineering (SDET)**
+- 🚀 Years of hands-on experience in **Full-Stack Development**, transitioning into **Full-stack Test Engineering (SDET)**
 - 🛠️ Skilled in building **high-performance, scalable systems** and ensuring their quality through **automation testing**
 - 🔁 Strong background in **frontend, backend, API, and system-level testing**
 - 🧪 Passionate about designing **test frameworks**, building **regression suites**, and improving product reliability
