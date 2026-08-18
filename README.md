@@ -38,19 +38,6 @@
 
 ---
 
-## ✨ Featured Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jpeseWang&label=Profile%20Views" alt="profile views" />
-  <img src="https://badges.pufler.dev/repos/jpeseWang" alt="repos badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpeseWang&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpeseWang&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 ## 🛠️ Skills Snapshot
 
